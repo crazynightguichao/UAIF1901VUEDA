@@ -1,0 +1,39 @@
+{
+    "code":200,
+    "message":"成功",
+    "date": [
+        {
+            "danhao": "LY20180618003",
+            "time": "2018-06-18",
+            "people": "张三",
+            "bumen": "研发部",
+            "gongsi": "康达",
+            "backtime": "2018-06-18",
+            "cunplace": "",
+            "chulipeople": "",
+            "beizhu": ""
+          },
+          {
+            "danhao": "LY201806180033",
+            "time": "2018-06-18",
+            "people": "李四",
+            "bumen": "研发部",
+            "gongsi": "康达",
+            "backtime": "2018-06-18",
+            "cunplace": "",
+            "chulipeople": "",
+            "beizhu": ""
+          },
+          {
+            "danhao": "LY20180618004",
+            "time": "2018-06-18",
+            "people": "王五",
+            "bumen": "研发部",
+            "gongsi": "康达",
+            "backtime": "2018-06-18",
+            "cunplace": "",
+            "chulipeople": "",
+            "beizhu": ""
+          }
+      ]
+}
